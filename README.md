@@ -1,9 +1,5 @@
 # Luke Melton
 
-## About Me
-
-always automating
-
 
 Feel free to reach out to me for collaboration or any exciting projects. Let's work together to create amazing software solutions.
 
